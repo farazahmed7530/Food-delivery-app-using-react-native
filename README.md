@@ -1,4 +1,6 @@
-This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
+# Food Delivery App using React Native
+
+![Untitled (Copy) (6)](https://github.com/farazahmed7530/Food-delivery-app-using-react-native/assets/133516800/ef8d12b4-cc4c-4f9a-974b-c922d6085a76)
 
 # Getting Started
 
